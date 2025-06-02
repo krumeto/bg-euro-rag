@@ -1,0 +1,14 @@
+[project]
+name = "bg-euro-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "model2vec>=0.5.0",
+    "openai>=1.82.1",
+    "openai-agents>=0.0.16",
+    "pypdf>=5.5.0",
+    "python-dotenv>=1.1.0",
+    "scikit-learn>=1.6.1",
+]
